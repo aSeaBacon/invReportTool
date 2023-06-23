@@ -1,0 +1,26 @@
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    1
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/16/23
+
+     HOME                           DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.         CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    2
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/16/23
+
+     HOME                           DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.         CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0124 RECEIPT 011000000003 00  0050523PR  05/12/23 IEXP002  023  SAAPR243  SCO0124       51.0200         0.00     1,645.40
+                               00  0050423PR  05/12/23 IEXP002  023  SAAPR243  SCO0124      351.1700         0.00    11,325.28
+     ---- ------- ------------                                                          ------------ ------------ ------------
+     0124 RECEIPT 011000000003                                                              402.1900         0.00    12,970.68
+
+
+     0124 RECEIPT 011000001002 00  0050423PR  05/12/23 IEXP002  023  SAAPR243  SCO0124      291.3600         0.00    11,508.75
+     ---- ------- ------------                                                          ------------ ------------ ------------
+     0124 RECEIPT                                                                           693.5500         0.00    24,479.43
+     0124                                                                                   693.5500         0.00    24,479.43
+                                                                                        ============ ============ ============
+                                                                                            713.5500         0.00    24,479.43

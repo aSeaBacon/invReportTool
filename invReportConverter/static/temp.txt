@@ -1,0 +1,128 @@
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    1
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/18/23
+
+     HOME                            DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.          CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0108 NON-VEND 011000000003 00  0355900IN  05/16/23 IEXP002  023                         366.8030         0.00     9,720.31
+                                11  0355900IN  05/16/23 IEXP002  023                         337.9580         0.00     9,059.30
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0108 NON-VEND 011000000003                                                              704.7610         0.00    18,779.61
+
+
+     0108 NON-VEND 011000000467 00  0355900IN  05/16/23 IEXP002  023                         130.9500         0.00     5,103.84
+
+
+     0108 NON-VEND 011000001002 11  0355900IN  05/16/23 IEXP002  023                         198.8380         0.00     5,547.38
+
+
+     0108 NON-VEND 011010000001 00  0355900IN  05/16/23 IEXP002  023                         344.6220         0.00    29,265.30
+
+
+     0108 NON-VEND 011010000013 00  0355900IN  05/16/23 IEXP002  023                         349.7870         0.00     9,444.24
+
+
+     0108 NON-VEND 011021000005 00  0355900IN  05/16/23 IEXP002  023                           2.3810         0.00       244.88
+
+
+     0108 NON-VEND 011031000001 11  0355900IN  05/16/23 IEXP002  023                         131.1280         0.00         0.00
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0108 NON-VEND                                                                         1,862.4670         0.00    68,385.25
+
+
+     0108 USAGE    011020000085 00  0045100IU  05/16/23 2018724  200             58            2.0000       114.12         0.00
+                                00  0045200IU  05/16/23 2018724  200             58            2.0000       114.12         0.00
+                                00  0045300IU  05/16/23 3711085  200             58            2.0000       114.12         0.00
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0108 USAGE    011020000085                                                                6.0000       342.36         0.00
+     0108 USAGE                                                                                6.0000       342.36         0.00
+     0108                                                                                  1,868.4670       342.36    68,385.25
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    2
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/18/23
+
+     HOME                            DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.          CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0122 USAGE    011000000467 00  0143900FR  05/16/23 MR4451S  261             220          30.0000     1,080.74         0.00
+                                00  0143900FR  05/16/23 MR4451S  261             220          30.0000     1,080.74         0.00
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0122 USAGE    011000000467                                                               60.0000     2,161.48         0.00
+
+
+     0122 USAGE    011000002001 00  0143800FR  05/16/23 MR4451S  287             220          10.0000       306.49         0.00
+                                00  0143900FR  05/16/23 MR4451S  261             220          10.0000       306.49         0.00
+                                00  0143900FR  05/16/23 MR4451S  261             220          10.0000       306.49         0.00
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0122 USAGE    011000002001                                                               30.0000       919.47         0.00
+     0122 USAGE                                                                               90.0000     3,080.95         0.00
+     0122                                                                                     90.0000     3,080.95         0.00
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    3
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/18/23
+
+     HOME                            DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.          CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0124 USAGE    011020000085 00  0024600IU  05/16/23 3711070  201             58            4.0000        29.87         0.00
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    4
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/18/23
+
+     HOME                            DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.          CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0140 NON-VEND 011010000001 01  0622900IN  05/16/23 IEXP002  023                          70.7510         0.00     5,853.90
+
+
+     0140 NON-VEND 011010000017 01  0622900IN  05/16/23 IEXP002  023                         159.6690         0.00     4,143.41
+                                02  0622900IN  05/16/23 IEXP002  023                          62.2470         0.00     3,874.68
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0140 NON-VEND 011010000017                                                              221.9160         0.00     8,018.09
+
+
+     0140 NON-VEND 011021000005 02  0622900IN  05/16/23 IEXP002  023                          37.8240         0.00     4,236.28
+
+
+     0140 NON-VEND 011031000001 03  0622900IN  05/16/23 IEXP002  023                          87.5920         0.00         0.00
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0140 NON-VEND                                                                           418.0830         0.00    18,108.27
+
+
+     0140 USAGE    011010000001 02  0622700IU  05/16/23 MR4351F  345             280         137.5410    11,456.22         0.00
+
+
+     0140 USAGE    011012000008 03  0622800IU  05/16/23 MR4451S  261             222           8.8860       200.82         0.00
+
+
+     0140 USAGE    011021000005 01  0622600IU  05/16/23 MR4351F  209             900           3.6460       401.91         0.00
+     ---- -------- ------------                                                          ------------ ------------ ------------
+     0140 USAGE                                                                              150.0730    12,058.95         0.00
+     0140                                                                                    568.1560    12,058.95    18,108.27
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    5
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/18/23
+
+     HOME                            DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.          CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0164 RECEIPT  011010000003 00  0042623PR  05/16/23 IEXP002  023  SAAPR583  SCO0158    4,117.5570         0.00     3,541.10
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    6
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/18/23
+
+     HOME                            DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.          CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0171 USAGE    011021000005 00  0344700IU  05/16/23 MR4151X  209             900           2.0000       187.62         0.00
+STATE OF WEST VIRGINIA                                  FIELD INPUT SYSTEM                                   REPORT NO. 2  PAGE    7
+DEPARTMENT - HIGHWAYS                                    INVENTORY DETAIL                                    JOB NUMBER   - HWDD301E
+DIVISION - FIELD SYSTEM                                    BY CATEGORY                                       CURRENT DATE - 05/18/23
+
+     HOME                            DOCUMENT   REPORT               PO/BF 105/ P. TYPE/                    USAGE       AMOUNT
+     ORG.          CL TYP  SUB  LOC    NUMBER     DATE  AUTH NO. ACT   FROM/TO  MMS CODE        UNITS       AMOUNT     RECEIVED
+
+     0198 USAGE    011021000008 00  0174200FR  05/16/23 B20A505  392             999           6.0000        82.80         0.00
+                                                                                         ============ ============ ============
+                                                                                           6,656.1800    15,782.55    90,034.62

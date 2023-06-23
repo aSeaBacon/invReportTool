@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel='stylesheet' type='text/css' href="{{ url_for('static', filename='global.css') }}">
+</head>
+<body style="text-align:center; text-align: -webkit-center;background-color: #121212; height: -webkit-fill-available;">
+  <div style="border: solid black 1px; height: 50%">
+    <h2>WVDOT Inventory Report Converter</h2>
+    <img src="{{ url_for('static', filename='logo.png') }}" alt="WVDOT Logo" style="height:100%;">
+    <h3>Output from Inventory Report text file into Excel Format</h3>
+    <p>Please submit only <b>.txt files </b> to be converted to Excel
+      <br> Please click "Choose Files" to submit the file(s) to the converter.
+      <br> After clicking "Choose Files", Ctrl + click each file to select multiple files.
+    </p>
+    <form id='formfile' action="{{ url_for('invConvert') }}" method="POST" enctype="multipart/form-data">
+      <input type="file" id="myFile" name="filename" multiple="multiple" accept=".txt">
+      <input type="submit">
+    </form>
+  </div>
+</body>
+</html>
